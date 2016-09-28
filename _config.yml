@@ -5,7 +5,7 @@ url: "0.0.0.0" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Joey Kirk
+  title: Allen Peterson
   avatar: avatar.png
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
@@ -19,23 +19,23 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: alpeterson24@gmail.com
   behance:
   bitbucket:
-  dribbble: "joeykirk"
-  facebook: "joeykirk"
+  dribbble: https://dribbble.com/alpeterson24
+  facebook: 
   flickr:
-  github: "madebymunsters/type-theme"
+  github: https://github.com/alpeterson24
   google_plus:
-  instagram: "joeykirk"
-  linkedin:  # Full URL
+  instagram:
+  linkedin: https://www.linkedin.com/in/allen-peterson-a3883bab?trk=hp-identity-name
   pinterest:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "joeykirk"
+  twitter: 
   wordpress:
   youtube:
 
