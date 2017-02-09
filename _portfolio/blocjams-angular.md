@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BlocJams
+title: BlocJams-Angular
 feature-img: "img/bloc-jams2.png"
 thumbnail-path: img/bloc-jams.png
 short-description: Just like Blocjams but refactored with AngularJS

@@ -18,4 +18,4 @@ The project was an overall success. BlocJams does what it was meant to do, Play 
 ### Conclusion
 This, being my first project, went really well. It was the first coding project I started and completed and that is an accomplishment. It only makes me want to learn and build better applications so I can eventually solve bigger problems.
 
-[See BlocJams Github repo](https://github.com/alpeterson24/bloc-jams)
+[Take a peek at my BlocJams Github Repo](https://github.com/alpeterson24/bloc-jams)
