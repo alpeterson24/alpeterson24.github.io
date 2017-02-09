@@ -2,7 +2,7 @@
 layout: post
 title: BlocJams
 feature-img: "img/bloc-jams2.png"
-thumbnail-path: https://s3-us-west-2.amazonaws.com/allensphotos24123/bloc-jams/bloc-jams2.png
+thumbnail-path: img/bloc-jams.png
 short-description: BlocJams project that I created!
 ---
 
