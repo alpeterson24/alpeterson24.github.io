@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bloccit
-feature-img: img/sample_feature_img.png
+feature-img: "img/sample_feature_img.png"
 thumbnail-path: img/bloccit ss.png
 short-description: Reddit Replica created with Ruby on Rails!
 ---
