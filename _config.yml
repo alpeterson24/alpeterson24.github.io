@@ -12,7 +12,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1> Full-Stack Rails Developer, World Traveler, 10-Time World Charades Champion.</h1>
+     <h1> Full-Stack Rails Developer, World Traveler, 10-Time Charades Champion.</h1>
   header_text_feature_image: ../img/Cropped China.png
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
