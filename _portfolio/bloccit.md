@@ -3,7 +3,7 @@ layout: post
 title: Bloccit
 feature-img: "img/sample_feature_img.png"
 thumbnail-path: img/bloccit ss.png
-short-description: Reddit Replica created with Ruby on Rails!
+short-description: Reddit Replica created with Ruby on Rails and tested with Rspec
 ---
 
 Add some details about Bloccit
