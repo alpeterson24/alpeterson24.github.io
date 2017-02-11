@@ -4,9 +4,6 @@ title: About
 permalink: /about/
 feature-img: "img/sample_feature_img_2.png"
 ---
+### The name is Al and the game is web development.
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
-
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+I grew up in Wisconsin. Love football and nerding out about technology and strategy games. I've had many travels to China that shaped who I am today. I have some great stories to tell! All you have to do is ask!
