@@ -5,7 +5,7 @@ permalink: /contact/
 feature-img: "img/color.png"
 ---
 
-If you like what you see, are interested in my skills or just want to discus anything, leave me a quick message!
+If you like what you see, are interested in my skills or just want to discuss anything, leave me a quick message!
 
 <form action="https://getsimpleform.com/messages?form_api_token=80d0ed9f07209bcd411be247b8fe66ea_yourtoken_" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->

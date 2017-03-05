@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BlocJams
+title: BlocJams-Angular
 feature-img: "img/bloc-jams.png"
 thumbnail-path: img/bloc-jams2.png
 short-description: BlocJams project that I created with my mentor at Bloc!
@@ -18,4 +18,9 @@ The project was an overall success. BlocJams does what it was meant to do, Play 
 ### Conclusion
 This, being my first project, went really well. It was the first coding project I started and completed and that is an accomplishment. It only makes me want to learn and build better applications so I can eventually solve bigger problems.
 
+### Update! Refactored to AngularJS!
+After completing this project with HTML/CSS and Javascript/JQuery through the curriculum at Bloc we were asked to refactor it to use AngularJS. This another project that was almost entirely independent and thus was rather challenging. Angular brings a client-side MVC into the equation. Angular is such a powerful language and when one becomes good enough with it is a great tool. I personally enjoyed using directives to extend the functionality of the elements.   
+
 [Take a peek at my BlocJams Github Repo](https://github.com/alpeterson24/bloc-jams)
+
+[Take a peek at my BlocJams-Angular Github Repo](https://github.com/alpeterson24/bloc-jams-angular)
