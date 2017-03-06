@@ -12,8 +12,8 @@ Blocipedia is a wiki style website that I created at Bloc. This was my first ind
 ### Explanation
 This project is part of Bloc's curriculum and was meant for us to really focus on our skills of back-end development.
 
-### Results
-Blocipedia, again, was my first independent try at Ruby on Rails. Going back and looking at the project it was very challenging working with gems for the first time and their API's as well. This made me better at reading documentation and googling (Yes, googling). After sorting out mistakes, with the help of my mentor, the project turned out really well. 
+### Result
+Blocipedia, again, was my first independent try at Ruby on Rails. Going back and looking at the project it was very challenging working with gems for the first time and their API's as well. This made me better at reading documentation and googling (Yes, googling). After sorting out mistakes, with the help of my mentor, the project turned out really well.
 
 [See the app in action!](https:///boiling-depths-86160.herokuapp.com/)
 

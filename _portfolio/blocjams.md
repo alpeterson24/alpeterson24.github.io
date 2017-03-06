@@ -3,7 +3,7 @@ layout: post
 title: BlocJams-Angular
 feature-img: "img/bloc-jams.png"
 thumbnail-path: img/bloc-jams2.png
-short-description: BlocJams project that I created with my mentor at Bloc!
+short-description: BlocJams project that I created with my mentor at Bloc.
 ---
 
 ### Summary
@@ -23,4 +23,6 @@ After completing this project with HTML/CSS and Javascript/JQuery through the cu
 
 [Take a peek at my BlocJams Github Repo](https://github.com/alpeterson24/bloc-jams)
 
-[Take a peek at my BlocJams-Angular Github Repo](https://github.com/alpeterson24/bloc-jams-angular)
+[And then at my BlocJams-Angular Github Repo](https://github.com/alpeterson24/bloc-jams-angular)
+
+[See the App in action](http://machinist-boar-62537.netlify.com/collection)
