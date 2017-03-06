@@ -2,7 +2,7 @@
 layout: post
 title: Blocchat
 feature-img: "img/blocchat.png"
-thumbnail-path: img/sample_feature_img_3.png
+thumbnail-path: img/blocchat.png
 short-description: A messaging app made with Angular and Firebase API.
 ---
 
